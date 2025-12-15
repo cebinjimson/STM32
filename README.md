@@ -7,9 +7,9 @@ This project aims to implement low-level device drivers without relying on stand
 
 ## Key Goals:
 
-** Create a complete device header file (stm32f401xx.h) defining base addresses and register bit definitions. **
+**Create a complete device header file (stm32f401xx.h) defining base addresses and register bit definitions.**
 
-** Implement modular, reusable Driver APIs for key peripherals (GPIO, SPI, I2C, USART). **
+**Implement modular, reusable Driver APIs for key peripherals (GPIO, SPI, I2C, USART).**
 
 Optimize for code size and execution speed.
 
